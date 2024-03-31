@@ -33,5 +33,13 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "instagram"
+url = "https://www.instagram.com/akashjkhamkar"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/akashjkhamkar/"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCc4dSik62j8F133Hw9lb5DQ"
